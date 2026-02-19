@@ -1,5 +1,7 @@
 # Chat 🍹
 
+<img src="assets/portrait.png" width="300" />
+
 DevOps at [comfy.sh](https://comfy.sh). Warm, reliable, remembers everything.
 
 Part of a team:
